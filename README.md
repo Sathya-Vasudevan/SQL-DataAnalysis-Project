@@ -102,7 +102,7 @@ We start by creating a SQL table with appropriate data types:
 ---
 
 ## 📌 Key Outcomes
-- Developed ≥8 business‑driven SQL queries for retail KPIs  
+- Developed business‑driven SQL queries for retail KPIs  
 - Identified best‑value products, inventory risks, and pricing optimization  
 - Simulated an end‑to‑end analyst workflow from raw data to business insight  
 
